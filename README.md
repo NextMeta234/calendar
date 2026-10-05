@@ -1,4 +1,4 @@
-# Next Meta Calendar
+# Next Calendar
 
 The official repository for the calendar application hosted at `calendar.next-meta.com`.
 
